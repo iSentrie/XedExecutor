@@ -1,0 +1,10 @@
+C:\Users\foriv\source\repos\Bitizy Is Kinky\bin\Debug\Bitizy Is Kinky.exe
+C:\Users\foriv\source\repos\Bitizy Is Kinky\bin\Debug\Bitizy Is Kinky.pdb
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy Is Kinky.csprojAssemblyReference.cache
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy_Is_Kinky.Form1.resources
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy_Is_Kinky.Form2.resources
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy_Is_Kinky.Properties.Resources.resources
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy Is Kinky.csproj.GenerateResource.cache
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy Is Kinky.csproj.CoreCompileInputs.cache
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy Is Kinky.exe
+C:\Users\foriv\source\repos\Bitizy Is Kinky\obj\Debug\Bitizy Is Kinky.pdb
